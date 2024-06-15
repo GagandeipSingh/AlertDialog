@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AlertDialogs</string>
+    <string name="enter_any_number">Enter Any Number</string>
+    <string name="number">Enter Any Number..</string>
+    <string name="perform_calculations">Perform Calculations</string>
+    <string name="message">Press Sum %1$s to add %1$s\nPress Sub %1$s to subtract %1$s\nPress 0 to reset</string>
+    <string name="positive">Sum %1$s</string>
+    <string name="negative">Sub %1$s</string>
+    <string name="neutral">0</string>
+</resources>
